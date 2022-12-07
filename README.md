@@ -12,7 +12,7 @@
 
 - My discord : Thomega (งʘ̅͜ʘ̅)ง#0007
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Thomega35=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thomega35)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
