@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thomas (aka Thomega) and I'm 21 years old.
+- 👋 Hi, I’m Thomas (aka Thomega) and I'm 22 years old.
 
 - 🎒 I'm a French student in computer science engineering
 
